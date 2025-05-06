@@ -17,7 +17,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-End-Book-Recommender-System.git
+https://github.com/uthsavi97/Books-Recommender-System-Using-Machine-Learning.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
